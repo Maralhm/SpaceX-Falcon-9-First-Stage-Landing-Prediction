@@ -1,5 +1,6 @@
 # SpaceX Falcon 9 First Stage Landing Pediction
-https://www.spacex.com/static/images/share.jpg![image](https://github.com/Maralhm/SpaceX-Falcon-9-First-Stage-Landing-Prediction/assets/121652097/2fa874b1-0ba1-4301-906c-755f45dd5c64)
+![alt text]()
+
 
 # Overview
 In this project, I aim to predict whether the first stage of the SpaceX Falcon 9 rocket will land successfully. SpaceX has revolutionized the space industry by developing reusable rockets, significantly reducing the cost of space exploration. The ability to accurately predict the landing outcome of the Falcon 9 first stage is crucial for estimating the cost of a launch and competing against SpaceX in rocket launch bids.

@@ -1,5 +1,5 @@
 # SpaceX Falcon 9 First Stage Landing Pediction
-![SpaceX](./SpaceX.jpeg)
+![SpaceX](./SpaceX.jpeg)<img src="SpaceX.jpeg" alt="SpaceX" width="50%">
 
 
 # Overview

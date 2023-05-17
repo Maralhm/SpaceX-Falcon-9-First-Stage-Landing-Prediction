@@ -28,7 +28,7 @@ Based on my analysis and predictions, I can provide insights into the likelihood
 # Future Improvements
 This project provides a foundation for further enhancements and improvements. Some potential areas for future work include:
 
-  -Incorporating additional features and data sources to improve the prediction accuracy.
-  -Exploring advanced machine learning algorithms or ensemble techniques.
-  -Conducting a thorough analysis of feature importance and understanding the factors that significantly influence the landing outcome.
-  -Deploying the predictive model as an interactive web application or API to provide real-time predictions.
+* Incorporating additional features and data sources to improve the prediction accuracy.
+* Exploring advanced machine learning algorithms or ensemble techniques.
+* Conducting a thorough analysis of feature importance and understanding the factors that significantly influence the landing outcome.
+* Deploying the predictive model as an interactive web application or API to provide real-time predictions.

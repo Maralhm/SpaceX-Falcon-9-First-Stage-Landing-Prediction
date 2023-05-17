@@ -1,7 +1,7 @@
 # SpaceX Falcon 9 First Stage Landing Pediction
-<div style="display: flex; justify-content: center;">
+<p align="center">
     <img src="SpaceX.jpeg" alt="SpaceX" width="300">
-</div>
+</p>
 
 
 
